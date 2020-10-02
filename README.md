@@ -17,4 +17,4 @@ DashBoard page
 
 Dashboard page is a private Route - only logged in user can access.
 
-Using Redux for implementation.
+Using ReactJS, Redux and CSS for implementation.
